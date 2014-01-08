@@ -101,7 +101,7 @@
 	margin: 0px auto;
 	/*width: 1000px;*/
 	/*width: 750px;*/
-	background: #000000;
+	background: #fff;
 	
 }
 
@@ -274,7 +274,7 @@
 }
 
 .sub-content {
-    background: #000;
+    background: #fff;
 	position: relative;
     width: 860px;
 	height: 100%;
